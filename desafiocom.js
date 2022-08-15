@@ -22,4 +22,4 @@ for (let i = 0; i < jugadores; i++){
         console.log("No pueden ingresar menores de edad");
     }
 }
-console.log("Ahora a jugar !")
+console.log("Ahora a jugar !");
